@@ -1,7 +1,10 @@
 package exam;
 
 /**
- * @author admin
+ * @Author: brick
+ * @CreateTime: 2023-02-24  00:37
+ * @Description: TODO
+ * @Version: 1.0
  */
 public class Sword30 {
     private Node head;

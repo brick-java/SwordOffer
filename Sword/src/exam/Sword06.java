@@ -26,6 +26,12 @@ package exam;//输入一个链表的头节点，从尾到头反过来返回每�
  * ListNode(int x) { val = x; }
  * }
  */
+/**
+ * @Author: brick
+ * @CreateTime: 2023-02-24  00:37
+ * @Description: TODO
+ * @Version: 1.0
+ */
 class Sword06 {
     public int[] reversePrint(ListNode head) {
         ListNode node = head;
